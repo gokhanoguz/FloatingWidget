@@ -13,5 +13,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="@string/press_back_button_to_see_w_dget"
+        android:id="@+id/textview"/>
+
 </RelativeLayout>
